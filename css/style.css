@@ -118,7 +118,7 @@ li {
 
 @keyframes rotate-anime {
   0% {
-    transform: rotate(0);
+    transform: rotateY(0deg);
   }
 
   100% {

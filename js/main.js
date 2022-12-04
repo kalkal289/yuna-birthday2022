@@ -53,10 +53,9 @@ $(function () {
       $('.first-screen').addClass('none');
     }
   });
-
-  $('.first-screen').on('touchend', function () {
-    $('.close-box').addClass('none');
-    $('.close-box').removeClass('none');
+  
+  
+  $('.close-box').on('touchend', function () {
     $('.first-screen').addClass('start');
     $('.body').removeClass('all-hide');
   });

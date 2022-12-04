@@ -105,7 +105,7 @@ li {
   bottom: 100%;
   left: -40%;
   width: 80%;
-  animation: rotate-anime5 1500ms linear infinite;
+  animation: rotate-anime2 1500ms linear infinite;
 }
 
 .open-star2 {
@@ -113,7 +113,7 @@ li {
   bottom: 120%;
   right: -40%;
   width: 80%;
-  animation: rotate-anime5 1900ms linear infinite;
+  animation: rotate-anime2 1900ms linear infinite;
 }
 
 @keyframes rotate-anime5 {
